@@ -8,7 +8,7 @@ from math import tau
 
 # printer/gcode parameters
 
-design_name = 'Test_perusaydelta_Python_GColab'
+design_name = 'Test_caperusa_delta_Python_GColab'
 nozzle_temp = 210
 bed_temp = 0
 print_speed = 1000
