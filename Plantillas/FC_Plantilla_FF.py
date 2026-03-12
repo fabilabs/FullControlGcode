@@ -1,4 +1,5 @@
 # Instala en los servidores de Colab el paquete de github de Fullcontrol
+# python3 -m venv venv
 
 #if 'google.colab' in str(get_ipython()):
 #  !pip install git+https://github.com/FullControlXYZ/fullcontrol --quiet
